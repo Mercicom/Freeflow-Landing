@@ -57,12 +57,12 @@ export default function Home() {
         {/* Hero Section */}
         <section className="max-w-7xl mx-auto mt-20 animate-in fade-in duration-1000">
           <h1 className="text-5xl font-light mb-8 max-w-2xl">
-            We're not here to fill time—
+            We&apos;re not here to fill time—
             <br />
-            we're here to free it.
+            we&apos;re here to free it.
           </h1>
           <p className="text-lg max-w-2xl leading-relaxed">
-            Freeflow Collective rejects corporate bloat, endless meetings, and performative hustle. We're artists,
+            Freeflow Collective rejects corporate bloat, endless meetings, and performative hustle. We&apos;re artists,
             builders, and pragmatists who believe work should serve life—not the other way around. Here, we work
             smart, stay free, and for each other.
           </p>
