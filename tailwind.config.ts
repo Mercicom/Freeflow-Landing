@@ -21,10 +21,15 @@ const config: Config = {
   				'100%': {
   					opacity: '100%'
   				}
-  			}
+  			},
+  			'wave-pulse': {
+  				'0%, 100%': { opacity: '0.4' },
+  				'50%': { opacity: '0.7' },
+  			},
   		},
   		animation: {
-  			appear: 'appear 300ms ease-out forwards'
+  			appear: 'appear 300ms ease-out forwards',
+  			'wave-pulse': 'wave-pulse 4s ease-in-out infinite',
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
